@@ -42,7 +42,7 @@ Steps:
 
 1.
 Clone the repository
-bash   git clone https://github.com/YOUR_USERNAME/cs3431-database-project.git
+bash   git clone https://github.com/erisr12212/cs3431-database-project.git
    cd cs3431-database-project
 
 2.
